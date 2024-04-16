@@ -1,6 +1,6 @@
 <!-- App.vue -->
 <template>
-  <div class="w-full min-h-screen flex items-center">
+  <div class="w-full min-h-screen flex items-center" v-cloak>
     <div class="max-w-[800px] w-full mx-auto">
       <Card>
         <CardTitle>
